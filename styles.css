@@ -2,6 +2,7 @@
 body {
   font-family: "Quicksand", sans-serif;
   margin: 0px;
+  background: linear-gradient(114.92deg, #ffffff 0%, #d0d0d0 106.05%);
 }
 
 hr {
@@ -9,9 +10,9 @@ hr {
 }
 
 :root {
-  --primary-color: #6c63ff;
-  --dark-grey: #6b7280;
-  --off-white: #f3f4f6;
+  --primary-color: #1e3a8a;
+  --dark-grey: #d9d9d9;
+  --off-white: #d2d2d2;
 }
 
 .container {
@@ -83,6 +84,7 @@ hr {
   display: block;
   max-width: 600px;
   margin: auto;
+  max-height: 400px;
 }
 
 .hero .hero-heading {
@@ -90,7 +92,6 @@ hr {
   padding-top: 1rem;
   font-weight: bold;
   font-size: 2.5rem;
-  color: var(--dark-grey);
 }
 
 .section {
