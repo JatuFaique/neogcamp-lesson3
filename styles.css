@@ -62,6 +62,8 @@ hr {
 
 .nav .nav-brand {
   font-weight: bold;
+  font-size: 52px;
+  padding-left: 2rem;
 }
 
 .nav .link {
